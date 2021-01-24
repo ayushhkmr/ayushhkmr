@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Ayush Kumar Dwivedi, an Coder 🚀 from India, currently a CS Junior at <a href ="http://kiit.ac.in/">KIIT University</a>
+Hi, I'm Ayush Kumar Dwivedi, an Coder 🚀 from India, currently a IT Freshman at <a href ="http://kiit.ac.in/">KIIT University</a>
 
 Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 and binging TV shows 📺 and designing UIs.
 
@@ -26,10 +26,10 @@ Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 a
 
 - 🔭 I’m currently working on a few C++ projects.
 - 🌱 I’m currently learning Web Development.
-- 💬 Ask me about .
+-<!-- 💬 Ask me about .-->
 - 📫 How to reach me: <a href="mailto:acool4974@gmail.com">acool4974@gmail.com</a>
-- 😄 Pronouns: He / Him / Bro / Dude.
-- ⚡ Fun fact: Jack of All trades , master of pun 😂.
+- 😄 Wanna talk Just Text me !! <a herf="https://www.instagram.com/ayushh_dwivedi">
+- ⚡ Fun fact: 😂.
 
 &nbsp;
 <br>
