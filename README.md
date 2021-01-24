@@ -28,7 +28,7 @@ Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 a
 - 🌱 I’m currently learning Web Development.
 -<!-- 💬 Ask me about .-->
 - 📫 How to reach me: <a href="mailto:acool4974@gmail.com">acool4974@gmail.com</a>
-- 😄 Wanna talk Just Text me !! <a herf="https://www.instagram.com/ayushh_dwivedi">
+- 😄 Wanna talk Just Text me !! <a herf="https://www.instagram.com/ayushh_dwivedi"> </a>
 - ⚡ Fun fact: 😂.
 
 &nbsp;
