@@ -20,7 +20,7 @@ Hi, I'm Ayush Kumar Dwivedi, an Coder 🚀 from India, currently a IT Freshman a
 
 Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 and binging TV shows 📺 and designing UIs.
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/xT9IgzoKnwFNmISR8I/html5" />
+<!--<img align="right" alt="GIF" src="https://giphy.com/gifs/xT9IgzoKnwFNmISR8I/html5" />-->
 
 **Talking about Personal Stuff:**
 
