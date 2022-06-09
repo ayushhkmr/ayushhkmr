@@ -22,7 +22,7 @@ Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 a
 
 <!--<img align="right" alt="GIF" src="https://giphy.com/gifs/xT9IgzoKnwFNmISR8I/html5" />-->
 
-**Talking about Personal Stuff:**
+***Talking about Personal Stuff:***
 
 - 🔭 I’m currently working on a few C++ projects.
 - 🌱 I’m currently learning Web Development.
