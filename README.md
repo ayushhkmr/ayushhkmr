@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Ayush Kumar Dwivedi, an Coder 🚀 from India, currently a IT Freshman at <a href ="http://kiit.ac.in/">KIIT University</a>
+Hi, I'm Ayush Kumar Dwivedi, an Coder 🚀 from India, currently a IT Undergraduate at <a href ="http://kiit.ac.in/">KIIT University</a>
 
 Beside's developing stuff, I enjoy listening music 🎧 ,traveling 🏝️🗻 and binging TV shows 📺 and designing UIs.
 
